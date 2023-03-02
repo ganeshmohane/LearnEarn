@@ -1,0 +1,24 @@
+LearnEarn
+
+LearnEarn is a web-based platform that aims to help individuals learn new skills, find job opportunities, and earn money. This project is developed using HTML, CSS, and JavaScript.
+
+Getting Started
+To get started with LearnEarn, simply clone or download the project from the GitHub repository to your local machine.
+
+Copy code
+git clone https://github.com/ganeshmohane/learnearn.git
+Prerequisites
+To run this project, you need a web browser installed on your machine.
+
+Running the project
+To run the project, simply open the index.html file in your web browser.
+
+Built With
+HTML - for the structure of the web page
+CSS - for styling the web page
+
+Authors
+Ganesh Mohane - Initial work
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
